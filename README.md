@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <!--
   <a align="center" href="https://github.com/luucasorfer">
   -->
-  <img height="180em" 
+  <img height="150" 
   src="https://github-readme-stats.vercel.app/api?username=luucasorfer&bg_color=383A59&show_icons=true&title_color=BD93F9&icon_color=BD93F9&border_color=BD93F9&hide_border=false&theme=dracula&locale=pt-br"/>
-  <img height="180em" 
+  <img height="150" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasorfer&layout=compact&bg_color=383A59&show_icons=true&title_color=BD93F9&icon_color=BD93F9&border_color=BD93F9&custom_title=Linguagens mais usadas&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=dracula"/>
 </div>
 
@@ -44,3 +44,12 @@ Here are some ideas to get you started:
 </div>
 
 # 
+
+<div> 
+  <a href="https://instagram.com/luucasorfer" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/luucasorfer" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
