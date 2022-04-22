@@ -36,7 +36,9 @@ Here are some ideas to get you started:
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luucasorfer-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="luucasorfer-Js" height="30" width="40" 
+  <img align="center" alt="luucasorfer-Angular" height="30" width="40" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="luucasorfer-Ts" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="luucasorfer-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
