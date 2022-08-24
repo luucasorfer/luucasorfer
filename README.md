@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #
 
-<div>
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luucasorfer&bg_color=383A59&show_icons=true&title_color=BD93F9&icon_color=BD93F9&border_color=BD93F9&hide_border=false&theme=dracula&locale=pt-br"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucasorfer&layout=compact&bg_color=383A59&show_icons=true&title_color=BD93F9&icon_color=BD93F9&border_color=BD93F9&custom_title=Linguagens%20mais%20usadas&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=dracula"/>
 </div>
