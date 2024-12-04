@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hey, sou o <a href="https://github.com/luucasorfer">Lucas Fernandes</a> 👋
 
-- 🔭 Atualmente estou trabalhando como T.I. mas pretendo fazer a migração para a carreira de DEV
-- 🌱 Estou aprendendo HTML, CSS, TYPESCRIPT e JAVASCRIPT
-- ⚡ Curiosidade: Amo Python (mas sei bem pouco) ❤
+- 🔭 Atuando hoje como professor de computação no IF Sul de Minas - Poços de Caldas.
+- 🌱 Em constante aprendizado com: HTML, CSS, JAVASCRIPT, REACT, REACT NATIVE entre outros.
+- ⚡ Curiosidade: Amo Python (mas desenvolvi pouco a linguagem) ❤
 
 #
 
